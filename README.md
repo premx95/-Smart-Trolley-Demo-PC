@@ -43,10 +43,15 @@ A powerful and intuitive Python desktop application that transforms the shopping
 ## 🏗️ How It Works
 
 🔹 Step 1: Launch the app and click **"Start Scanning"**.
+
 🔹 Step 2: Hold a product barcode in front of your webcam.
+
 🔹 Step 3: Enter the quantity when prompted — item is added to your cart instantly.
+
 🔹 Step 4: Click **"Scan Another Item"** to keep adding products.
+
 🔹 Step 5: When done, click **"Proceed to Payment"** and choose your payment method.
+
 🔹 step 6: Enter your payment details and complete the checkout. ✅
 
 ---
