@@ -27,10 +27,15 @@ A powerful and intuitive Python desktop application that transforms the shopping
 ## ⚙️ Tech Stack
 
 🔹 **Python 3.8+** – The backbone of the application.
+
 🔹 **Tkinter & ttk** – Provides a sleek, native desktop GUI.
+
 🔹 **OpenCV (`cv2`)** – Handles real-time webcam capture and image processing.
+
 🔹 **pyzbar** – Decodes barcodes and QR codes from live camera frames.
-🔹 **SQLite3** – Lightweight, built-in local database for product storage.
+
+🔹 **SQLite3** – Lightweight, built-in local database for product storage. 
+
 🔹 **threading** – Keeps the camera running without blocking the UI.
 
 ---
